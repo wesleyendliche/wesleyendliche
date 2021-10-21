@@ -2,8 +2,8 @@
 <h3>Work in progress...</h3>
 <div align="center">
   <a href="https://github.com/wesleyendliche">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wesleyendliche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyendliche&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyendliche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyendliche&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
